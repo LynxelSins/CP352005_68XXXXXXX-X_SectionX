@@ -11,9 +11,8 @@
 - **ชื่อ - นามสกุล:** นาย/นางสาว ตัวอย่าง นามสมมุติ
 - **รหัสนักศึกษา:** 68XXXXXXX-X
 - **กลุ่มเรียน (Section):** Section X
-- **สาขาวิชา:** วิทยาลัยการคอมพิวเตอร์ มหาวิทยาลัยขอนแก่น (College of Computing, KKU)
 - **อีเมลมหาวิทยาลัย:** example-name@kkumail.com
-- **GitHub Profile:** [https://github.com/your-username](https://github.com/your-username)
+
 
 ---
 
